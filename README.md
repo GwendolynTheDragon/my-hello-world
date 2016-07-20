@@ -1,2 +1,5 @@
 # my-hello-world
-Nothing of value, just a temporary repo for testing and learning
+
+Set up this project to understand github
+
+This is the first commit
